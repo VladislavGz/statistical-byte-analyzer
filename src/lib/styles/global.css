@@ -1,0 +1,13 @@
+.g-main-text {
+    color: var(--text-main-color-0);
+    font-family: var(--main-font-family);
+    font-size: var(--main-font-size-medium);
+    letter-spacing: var(--main-font-letter-spacing);
+}
+
+.g-accent-text {
+    color: var(--text-main-color-0);
+    font-family: var(--accent-font-family);
+    font-size: var(--accent-font-size-medium);
+    letter-spacing: var(--accent-font-letter-spacing);
+}

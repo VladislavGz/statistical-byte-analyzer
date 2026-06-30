@@ -1,0 +1,25 @@
+:root {
+    --bg-base-color: #111;
+
+    --bg-main-color-n100: #222;
+    --bg-main-color-0: #333;
+    --bg-main-color-p100: #444;
+    --bg-main-color-p200: #555;
+
+
+    --text-main-color-0: #aaa;
+    --text-accent-color-0: #eee;
+    --text-error-color-0: #e33;
+
+    --main-font-family: monospace;
+    --main-font-size-small: 14px;
+    --main-font-size-medium: 16px;
+    --main-font-size-big: 18px;
+    --main-font-letter-spacing: 2px;
+
+    --accent-font-family: monospace;
+    --accent-font-size-small: 18px;
+    --accent-font-size-medium: 22px;
+    --accent-font-size-big: 24px;
+    --accent-font-letter-spacing: 6px;
+}

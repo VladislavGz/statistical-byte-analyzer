@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    display: block;
+    border: none;
+    background: none;
+}
+
+ul, ol {
+    display: block;
+    list-style: none;
+}
+
+li {
+    display: block;
+    list-style: none;
+}
